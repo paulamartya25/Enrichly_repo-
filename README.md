@@ -4,9 +4,9 @@ A full-stack job automation platform where developers can create, schedule, and 
 
 ## Live Demo
 
-- **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app) *(update after deployment)*
-- **Backend API**: [https://your-backend.onrender.com](https://your-backend.onrender.com) *(update after deployment)*
-- **API Docs (Swagger)**: [https://your-backend.onrender.com/swagger](https://your-backend.onrender.com/swagger) *(update after deployment)*
+- **Frontend**: [https://enrichly-repo.vercel.app](https://enrichly-repo.vercel.app)
+- **Backend API**: [https://enrichly-repo.onrender.com](https://enrichly-repo.onrender.com)
+- **API Docs (Swagger)**: [https://enrichly-repo.onrender.com/swagger](https://enrichly-repo.onrender.com/swagger)
 
 ## GitHub Repository
 
